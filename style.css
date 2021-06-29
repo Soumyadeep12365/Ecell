@@ -1,0 +1,53 @@
+ /*carousel*/
+
+ .carousel-item{
+   height: 32rem;
+   position: relative;
+ }
+ .carousel-caption{
+    padding-bottom: 300px;
+  }
+
+ /*navbar*/
+
+ a{
+    display: block;
+    padding: 0 20px;
+    line-height: 30px;
+  }
+
+  #a1:hover{
+    background-color: lightseagreen;
+  }
+
+/*button*/
+
+  .w3-btn{
+    width: 150px;
+  }
+
+  .w3-button{
+    margin: 30px, 0;
+    display: inline-block;
+    padding: 8px 15px;
+    transition: background 0.5s;
+    outline: none;
+  }
+
+/*contact section*/
+
+  .w3-input,
+  #b {
+    border-radius: 30px;
+  }
+
+  .btn:hover{
+    background: #563434;
+    color: #fff;
+  }
+
+  /*icon*/ 
+
+  #i1{
+    font-size: 200px;
+  }
